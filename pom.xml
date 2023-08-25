@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+ 
+  <groupId>com.github.darthcloud</groupId>
+  <artifactId>img</artifactId>
+  <version>1</version>
+
+  <dependency>
+    <groupId>com.github.espressif</groupId>
+    <artifactId>esp-idf</artifactId>
+    <version>82cceabc6e6a0a2d8c40e2249bc59917cc5e577a</version>
+  </dependency>
+</project>
